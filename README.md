@@ -1,3 +1,3 @@
 # CSE231Sec4
 
-This rep contains our DLD files
+This repository contains DLD Lab works
